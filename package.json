@@ -19,10 +19,10 @@
     "url": "https://github.com/MultiverseLearningProducts/musicians-bands/issues"
   },
   "dependencies": {
-    "express": "^4.17.3",
-    "jest": "27.5.1",
-    "sequelize": "^6.21.4",
-    "sqlite3": "^5.0.11"
+    "express": "^4.18.2",
+    "path": "^0.12.7",
+    "sequelize": "^6.29.0",
+    "sqlite3": "^5.1.4"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
