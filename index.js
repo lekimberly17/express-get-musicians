@@ -1,4 +1,4 @@
-const {Band} = require('./Band')
+const {Band} = require('./routes/Band')
 const {Musician} = require('./Musician')
 
 Musician.belongsTo(Band)
